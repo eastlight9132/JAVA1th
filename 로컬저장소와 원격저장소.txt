@@ -1,0 +1,26 @@
+﻿
+로컬저장소와 원격저장소 연결하기 ( 동기화)
+
+
+C드라이브에 git2020폴더[로컬]를 추가하였고
+
+git init으로 초기화한 상태이고 .
+
+
+git initosmo_07@DESKTOP-E2I6CJ1 MINGW64 /c/git2020 (master)
+
+$ git init
+
+Reinitialized existing Git repository in C:/git2020/.git/
+
+
+kosmo_07@DESKTOP-E2I6CJ1 MINGW64 /c/git2020 (master)
+
+$ git remote add origin https://github.com/eastlight9132/JAVA1th.git
+
+kosmo_07@DESKTOP-E2I6CJ1 MINGW64 /c/git2020 (master)
+
+$
+
+
+﻿
